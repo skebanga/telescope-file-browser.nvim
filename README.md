@@ -72,6 +72,7 @@ vim.api.nvim_set_keymap(
 | `<C-y>/y`        | Copy (multi-selected) files or folders to cwd        |
 | `<C-d>/dd`       | Delete (multi-selected) files or folders             |
 | `<C-r>/r`        | Rename (multi-selected) files                        |
+| `<C-e>/e`        | Create file                                          |
 | `--/m`           | Move multi-selected files to cwd                     |
 | `<C-h>/h`        | Toggle hidden files                                  |
 | `<C-o>/o`        | Open file with default system application            |
